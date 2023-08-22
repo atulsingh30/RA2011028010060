@@ -7,3 +7,6 @@ Request:
 
 Response and Response time:
 ![Alt text](image-2.png)
+
+## Screenshots of Question 2:
+![Alt text](image-3.png)
